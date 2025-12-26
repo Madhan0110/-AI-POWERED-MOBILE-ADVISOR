@@ -1,3 +1,5 @@
+## NOTE : Project File will show as invalid file , download it ad execute in your VSCode
+
 # 📱 Mobile Details Chatbot
 
 A conversational chatbot that answers questions about mobile phones using **semantic search (FAISS)** and a **local language model**, wrapped in an interactive **Gradio UI**.
