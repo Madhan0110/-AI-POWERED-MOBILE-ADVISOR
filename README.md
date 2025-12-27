@@ -47,3 +47,17 @@ A conversational chatbot that answers questions about mobile phones using **sema
 Open and run the notebook:
     code Mobile_details_bot.ipynb
 Then execute all cells to launch the Gradio app.
+
+# 💬 Example Queries
+
+“Tell me the specifications of iPhone 14”
+“Which mobile has the best battery?”
+“Suggest a phone under 30,000”
+
+# 📌 Future Improvements
+
+Add GPU support
+Deploy on Hugging Face Spaces
+Support voice input
+Add comparison mode
+
